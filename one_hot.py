@@ -1,3 +1,4 @@
+# не смог без get_dummies :)
 import pandas as pd
 import random
 lst = ['robot'] * 10
